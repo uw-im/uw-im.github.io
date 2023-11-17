@@ -1,0 +1,27 @@
+site_name: UW IM Resources
+site_author: Evonne McArthur
+site_description: >-
+  Clinical Resources for the University of Washington Internal Medicine Program
+docs_dir: 'docs'
+#site_url:
+
+repo_name: Source Code
+repo_url: https://github.com/uw-im
+
+# nav:
+#   - Home: index.md
+#   - About: index.md
+#   - Content:
+#     - content/Anemia.md 
+
+copyright: Copyright &copy; 2023 Evonne McArthur
+
+theme:
+  name: material
+  logo: assets/logo.png
+  favicon: assets/favicon.png
+
+  palette:
+    primary: deep purple
+  features:
+    - content.code.copy
