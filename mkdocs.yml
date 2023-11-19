@@ -3,10 +3,10 @@ site_author: Evonne McArthur
 site_description: >-
   Clinical Resources for the University of Washington Internal Medicine Program
 docs_dir: 'docs'
-#site_url:
+site_url: https://uw-im.github.io/
 
 repo_name: Source Code
-repo_url: https://github.com/uw-im
+repo_url: https://github.com/uw-im/uw-im.github.io
 
 # nav:
 #   - Home: index.md

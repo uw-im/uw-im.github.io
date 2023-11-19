@@ -2,11 +2,9 @@
 hide:
   - toc
 ---
-
 # Decompensated Heart Failure
 
 ```
-
 # Acute Decompensated Heart Failure secondary to *** with EF ***
 Etiology, ACC/AHA Stage (A risk factors, B structure but no sxs, C symptoms, D refractory/terminal); NYHA Class (I no limitations, II normal activity, III minimal activity, IV symptoms at rest) last echo, dry weight, current weight, diuretic adherence, salt intake, NSAID or steroid use
 
@@ -30,6 +28,4 @@ GDMT:
 Other:
 -- Iron: 200mg IV iron (ferritin <100 OR ferritin <300 + TSat <20%, OR iron <13)
 -- ICD: *** after 3-6 months of GDMT: B and EF <30%, C and EF <35% or prior VT/VF
-
-
 ```
