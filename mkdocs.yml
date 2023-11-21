@@ -22,6 +22,9 @@ theme:
   favicon: assets/favicon.png
 
   palette:
-    primary: deep purple
+    primary: custom
+    accent: custom
   features:
     - content.code.copy
+extra_css:
+  - stylesheets/extra.css
